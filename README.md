@@ -2,6 +2,8 @@
 
 A Go implementation of Conway's Game of Life, rendered directly in your terminal. This project brings the fascinating world of cellular automata to life through a simple yet powerful command-line interface.
 
+![](https://github.com/YeyoM/go-game-of-life/blob/main/demos/demo.gif)
+
 ## About Conway's Game of Life
 
 Conway's Game of Life is a cellular automaton devised by mathematician John Conway in 1970. It's not a traditional game - rather, it's a zero-player game that evolves based on its initial state. The game demonstrates how complex patterns can emerge from simple rules.
